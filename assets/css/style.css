@@ -255,7 +255,7 @@ h6 {
   right: 0;
   z-index: 1;
 } */
-
+/* 
 #hero .hero-container {
   position: relative;
   z-index: 2;
@@ -264,7 +264,7 @@ h6 {
 #hero .animation {
   position: relative;
   width: 60%;
-  /* border: red 5px solid; */
+
 }
 #hero .animation img {
   opacity: calc(0.7);
@@ -284,15 +284,15 @@ h6 {
   50%  {transform: rotate(180deg);}
    55%  {transform: translate(150px,0);}
   100% {transform: scale(3.5,4);}
-  /* 65%  {transform: scale(1.5);}
+  65%  {transform: scale(1.5);}
   70%  {transform: translate(100px,0);}
   75%  {transform: translate(150px,0);}
   80% {transform: translate(200px,0);}
   85%  {transform: scale(1.5);}
   90%  {transform: translate(100px,0);}
   95%  {transform: translate(150px,0);}
-  100% {transform: translate(200px,0);}  */
-}
+  100% {transform: translate(200px,0);} 
+} */
 
 
 #hero h1 {
